@@ -1,11 +1,13 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
+name=Assignment-2.2.md
+Assignment 2.2 — Personal Introduction Page[cite: 7]
+Task: Create a resume-style webpage to introduce yourself.[cite: 7]
 What to do:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Write your name in the main heading.[cite: 7]
+2. Write an introduction paragraph in the About Me section.[cite: 7]
+3. Create sections for education, skills, and hobbies.[cite: 7]
+4. Use `h1` to `h6` headings in appropriate places.[cite: 7]
+5. Use `p` for paragraphs, `br` for line breaks, and `hr` for separators.[cite: 7]
+6. Use `strong`, `em`, and `i` for important text.[cite: 7]
+7. Organize related content using `div` and inline content using `span`.[cite: 7]
+Submission: The personal introduction webpage and its HTML code.[cite: 7]
